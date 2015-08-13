@@ -5,11 +5,12 @@
   "description": "Run Benchmark.js tests from js files.",
   "dependencies": {
     "benchmark": "^1.0.0",
+    "colors": "^1.1.2",
     "minimist": "^1.1.3"
   },
   "author": {
-  	"name": "Harri Kovalainen",
-  	"email": "hakovala@gmail.com"
+    "name": "Harri Kovalainen",
+    "email": "hakovala@gmail.com"
   },
   "license": "MIT"
 }
